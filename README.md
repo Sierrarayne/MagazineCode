@@ -1,0 +1,2 @@
+# MagazineCode
+Magazine template code
